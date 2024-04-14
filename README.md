@@ -1,4 +1,5 @@
 # HealthBuddy
+<img width="858" alt="healthBuddy" src="https://github.com/JIAJUNKK/HealthBuddy/assets/69725776/6a3d9424-4c0f-42da-b306-acf20a64cf07"><br>
 Welcome to HealthBuddy! This app is designed to empower you to take control of your nutritional intake and embark on a journey towards better health and wellness.
 
 # Getting Started
